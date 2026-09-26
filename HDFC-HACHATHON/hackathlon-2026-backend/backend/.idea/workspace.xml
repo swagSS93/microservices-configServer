@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b46f799-8bd9-4014-9b43-d0dc37f48cef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v16.13.0-win-x64/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/DP/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/DP/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/DP/MinimumCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/BoardCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/BotPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/GameSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/strategy/PlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/SystemDesignLld/TicTacToe/strategy/RandomPlayingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/Trst1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/EquilibriumPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/FrequenciesLimitedRangeArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/LeadersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/LongestSubArrayWithSumKForNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/MaxSumSubarraySizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/MaximumSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/MaximumSumSubArrayCircularArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/MinimumSizeSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/StockBuySellToMaximizeProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/SubarraysWithKDistinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/ThreeSumZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/array/maximumUniqueSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/binaryTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/binaryTree/TreeImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/AdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/CourseScheduleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/DetectCycleDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/DetectCycleUndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/DistanceOfNearestCellHaving1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/KeysNRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/NetworkDelayTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/NoOfProvinces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/NumberOfEnclaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/RottingOranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/TopologicalSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/graph/isBipartiteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/linkedList/LRUCacheImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/linkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/FindDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/FindsmallestinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/JAVAPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/LRUCacheImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/Prac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/QueueUsingStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/RemoveKDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/strQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/prac/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/GcdStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/LRUCacheImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/LinkedListPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/MapPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/TestJava8Feature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/practiceTest/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/AnagramUsingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/CheckSubsequenceStringOfOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/FrequencyCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/FrequencyCharInStringInSortedOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/GroupAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/LeftMostNonRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/LeftMostRepeatingChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/LongestSubstringWithKUniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/MinimumWindowSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/PalindromUsingReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/PatternMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/SortDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/string/java8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/threadPrac/ThreadPracticeExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/java/threadPrac/virtualThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DS/src/main/resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/FirstClubAssignment_membershipProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/config/LocalSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/config/OpenApiConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/controller/MembershipController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/entity/Benefit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/entity/MembershipPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/entity/TierBenefitMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/exception/InvalidRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/BenefitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/BenefitResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/CreateBenefitRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/CreateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/MembershipPlanRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/MembershipPlanResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/OrderResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/PlaceOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/PlanAndTierDetailsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/PlanAndTierRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/PlanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/SubscriptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/TagBenefitToTierRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/TierBenefitDetailResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/TierBenefitRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/TierBenefitResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/TierLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/UserActivityContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/UserCohort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/UserPlanAndTierDetailsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/model/UserProfileResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/repository/BenefitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/repository/MembershipPlanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/repository/TierBenefitMappingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/service/DynamicBenefitEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/service/MembershipService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/service/OrderEventPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/strategy/CohortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/strategy/OrderCountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/strategy/OrderValueStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/strategy/QualificationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/main/java/com/firstClubAssignment/membershipProgram/strategy/TierEvaluationEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/test/java/com/firstClubAssignment/membershipProgram/service/DynamicBenefitEvaluatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/test/java/com/firstClubAssignment/membershipProgram/service/MembershipServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/test/java/com/firstClubAssignment/membershipProgram/service/OrderEventPublisherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FirstClubAssignment_membershipProgram/membershipProgram/src/test/java/com/firstClubAssignment/membershipProgram/service/UserServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/java/src/main/java/launchday/IdempotencyHasher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/java/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/demo/src/main/java/com/springreactor/reactor/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/demo/src/main/java/com/springreactor/reactor/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/demo/src/main/java/com/springreactor/reactor/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/demo/src/main/java/com/springreactor/reactor/service/OderServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/demo/src/main/java/com/springreactor/reactor/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../demo/demo/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hackathon-java-assignment-20260728T123308Z-1-001/.idea/hackathon-java-assignment-20260728T123308Z-1-001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../hackathon-java-assignment-20260728T123308Z-1-001/hackathon-java-assignment/Jenkinsfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DBNavigator.Project.Workspace.Settings">
+    <assistant-settings>
+      <credential-settings>
+        <credentials />
+      </credential-settings>
+      <profile-settings>
+        <profiles />
+      </profile-settings>
+      <mcp-server-settings>
+        <workspace-integration value="false" />
+        <mcp-servers />
+        <mcp-tool-approvals />
+      </mcp-server-settings>
+    </assistant-settings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JqtZEcvwoQ7YLVXkWNMTvf1wbR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/SpringBootWorkspace/HDFC-Hackathon/hackathlon-2026-backend/backend&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.49885058&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b46f799-8bd9-4014-9b43-d0dc37f48cef" name="Changes" comment="" />
+      <created>1790400480284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790400480284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
