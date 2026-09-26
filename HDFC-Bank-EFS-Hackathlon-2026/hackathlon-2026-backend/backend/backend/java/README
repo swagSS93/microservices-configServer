@@ -1,0 +1,68 @@
+---
+
+# Student Reservation API (Java)
+
+A robust, highly concurrent Reservation API built in Java using standard libraries (`HttpServer`, `HttpClient`) and JDBC (compatible with PostgreSQL and H2). This implementation handles distributed fault tolerance, automated failover during authority outages, idempotency protection, and durable queue replay.
+
+---
+
+## Architecture & Features
+
+### 1. Circuit Breaker & Automatic Failover
+
+* **Health Polling:** A background scheduler pings the Central Authority's `/health` endpoint every 2 seconds.
+* **Live vs. Stand-In Mode:** Uses an `AtomicBoolean` circuit breaker (`isHealthy`). When the authority is reachable, requests run in **live mode**. If an outage is detected, the system smoothly transitions to **stand-in mode**.
+
+### 2. Stand-In Mode & Concurrency Control
+
+* **In-Memory Cache & Fallback:** Caches last known item stock levels and gracefully falls back to database aggregation of active reservations (`confirmed` and `pending`) when disconnected.
+* **Transaction Safety:** Enforces stock invariants (`I2`) and local limits (`STANDIN_MAX_PER_ITEM = 10`) inside strict database transactions using row-level locking (`FOR UPDATE`).
+
+### 3. Durable Queue Replay & Conflict Resolution
+
+* **Automatic Replay:** When the authority transitions from down to healthy, the background worker automatically replays pending reservations in chronological order.
+* **State Management:** Updates replayed reservations to terminal states (`confirmed` or `reversed`) without duplicating records or losing data.
+
+### 4. Idempotency (`I1`)
+
+* Protects against duplicate submissions using a SHA-256 payload signature combined with an `Idempotency-Key` header and database-level tracking (`idempotency_keys` table with conflict handling).
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+* Java 17 or higher
+* Maven or an IDE capable of compiling standard Java packages.
+
+### Environment Variables
+
+You can configure the application using the following environment variables:
+
+* `PORT`: Server port (default: `8080`)
+* `DATABASE_URL`: JDBC connection string (default: H2 in-memory DB)
+* `DATABASE_USER`: Database username (default: `sa`)
+* `DATABASE_PASSWORD`: Database password (default: empty)
+* `AUTHORITY_URL`: Base URL of the Central Authority (default: `[http://127.0.0.1:9000](http://127.0.0.1:9000)`)
+
+### Running the Application
+
+```bash
+mvn clean compile exec:java -Dexec.mainClass="launchday.App"
+
+```
+
+---
+
+## API Endpoints
+
+* `GET /health` — Returns system health, authority reachability status, and operating mode (`live` or `standin`).
+* `GET /items/{id}` — Fetches item details from the authority or falls back to local cache/aggregation during outages.
+* `POST /reservations` — Creates a new reservation (supports `Idempotency-Key` header).
+* `GET /reservations` — Lists reservations, optionally filtered by `userId`.
+* `GET /reservations/{id}` — Retrieves details of a specific reservation.
+* `POST /admin/reset` — Clears all local reservations, idempotency keys, and stock caches.
+* `GET /admin/reconcile` — Reconciles state against the authority.
+
+---
